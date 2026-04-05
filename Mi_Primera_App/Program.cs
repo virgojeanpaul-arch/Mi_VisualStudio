@@ -11,6 +11,10 @@ namespace Mi_Primera_App
         static void Main(string[] args)
         {
             Console.WriteLine("Hola, este es mi clase de c#");
+
+            Console.WriteLine("Hola, estoy usando git en red local");
+            Console.WriteLine("Estoy usando github en repo");
+            Console.WriteLine("Hola, este es mi clase de c#");
         }
     }
 }
