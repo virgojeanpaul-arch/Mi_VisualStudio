@@ -10,6 +10,7 @@ namespace Mi_Primera_App
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola, este es mi clase de c#");
         }
     }
 }
